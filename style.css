@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.choices button {
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#result {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
